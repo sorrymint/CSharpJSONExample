@@ -1,0 +1,26 @@
+[
+  {
+    "Platform": "PlayStation 4",
+    "Type": 1,
+    "Release": "2013-11-15T00:00:00",
+    "UnitsSold": 115000000
+  },
+  {
+    "Platform": "Xbox One",
+    "Type": 1,
+    "Release": "2013-11-22T00:00:00",
+    "UnitsSold": 51200000
+  },
+  {
+    "Platform": "Nintendo Switch",
+    "Type": 2,
+    "Release": "2017-03-03T00:00:00",
+    "UnitsSold": 95000000
+  },
+  {
+    "Platform": "PlayStation 5",
+    "Type": 1,
+    "Release": "2020-11-12T00:00:00",
+    "UnitsSold": 13600000
+  }
+]
